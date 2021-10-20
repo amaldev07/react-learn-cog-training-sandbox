@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.slider-container {
+  display: flex;
+}
+.slider-image {
+  width: 300px;
+  text-align: center;
+}
+
+.slider-action {
+  display: flex;
+  justify-content: space-between;
+}
+
+.action-container {
+  margin: 10px;
+  display: flex;
+  justify-content: space-between;
+}
